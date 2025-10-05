@@ -1,37 +1,63 @@
-# 👋 Hi, I'm Gian Lawrence!  
+<!-- Profile README for Geonn (Gian Lawrence) -->
 
-Welcome to my GitHub profile!
-I'm currently learning and exploring the world of **programming**, **software development**, and **technology** in general.  
+<h1 align="center">👋 Hi, I'm Gian Lawrence!</h1>
 
----
-
-## 🌱 About Me  
-- 🎓 Computer Science graduate from Sto. Tomas, Batangas  
-- 💡 Currently learning more about **software testing**, and **web development** 
-- 🧠 Passionate about solving problems and building useful systems  
-- ☕ I love learning new things and improving a little every day  
+<p align="center">
+  🌱 A passionate <strong>Computer Science Graduate</strong> from Sto. Tomas, Batangas <br>
+  💻 Exploring the world of <strong>Software Development</strong>, <strong>Testing</strong>, and <strong>Web Technologies</strong>  
+</p>
 
 ---
 
-## 🔧 Tools & Technologies  
-Here are some tools and technologies I’ve been using or learning:  
-- 💾 **Languages:** HTML, CSS, JavaScript, PHP, Python, SQL  
-- ⚙️ **Databases:** MySQL, PostgreSQL  
-- 🧩 **Frameworks / Tools:** Laravel (learning), VS Code, Git  
-- 💻 **Other Skills:** Software QA testing, system analysis, and documentation  
+### 👨‍💻 About Me  
+- 🎓 **Computer Science Graduate** — Sto. Tomas, Batangas  
+- 🧠 Interested in **Software QA Testing**, **Web Development**, and **System Analysis**  
+- 💡 Passionate about building systems that make work easier and smarter  
+- ☕ Believer in lifelong learning and continuous improvement  
 
 ---
 
-## 🚀 Projects  
-Some of my works and learning projects:  
-- 🥶 **Pickwise Frozen Food IMS** – A web-based inventory and sales management system with SMS notifications  
+### 🧰 Tools & Technologies  
+
+#### 💾 Programming Languages  
+`HTML` · `CSS` · `JavaScript` · `PHP` · `Python` · `SQL`
+
+#### ⚙️ Databases  
+`MySQL` · `PostgreSQL`
+
+#### 🧩 Frameworks & Tools  
+`Laravel (Learning)` · `VS Code` · `Git` · `Arduino IDE`
+
+#### 💻 Other Skills  
+Software QA Testing · System Documentation · User Support · Debugging  
+
 ---
 
-## 📫 Connect With Me  
-- 📍 From: Tanauan City, Batangas  
-- 💌 Email: *(lapidezgianreal@gmail.com)*  
-- 🌐 Portfolio (coming soon...)  
+### 🚀 Featured Project  
+#### 🥶 Pickwise Frozen Food Integrated Management System  
+A **web-based inventory and sales management system** designed to streamline frozen food business operations.  
+- 🧾 Tracks inventory and sales efficiently  
+- 📦 Manages customer orders  
+- 📱 Sends SMS notifications for updates  
+
+> 💡 Built using PHP, MySQL, HTML/CSS, and JavaScript  
 
 ---
 
-> “Learning never stops — every small step counts.” ✨  
+### 📫 Connect With Me  
+📍 **Location:** Tanauan City, Batangas  
+📧 **Email:** [lapidezgianreal@gmail.com](mailto:lapidezgianreal@gmail.com)  
+🌐 **Portfolio:** Coming soon...  
+
+---
+
+<p align="center">
+  <i>“Learning never stops — every small step counts.” ✨</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=geonn&label=Profile%20Views&color=0e75b6&style=flat" alt="geonn" />  
+</p>
+
